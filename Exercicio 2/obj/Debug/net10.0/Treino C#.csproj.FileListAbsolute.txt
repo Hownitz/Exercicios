@@ -1,0 +1,14 @@
+E:\Projects\Treino C#\bin\Debug\net10.0\Treino C#.exe
+E:\Projects\Treino C#\bin\Debug\net10.0\Treino C#.deps.json
+E:\Projects\Treino C#\bin\Debug\net10.0\Treino C#.runtimeconfig.json
+E:\Projects\Treino C#\bin\Debug\net10.0\Treino C#.dll
+E:\Projects\Treino C#\bin\Debug\net10.0\Treino C#.pdb
+E:\Projects\Treino C#\obj\Debug\net10.0\Treino C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Treino C#\obj\Debug\net10.0\Treino C#.AssemblyInfoInputs.cache
+E:\Projects\Treino C#\obj\Debug\net10.0\Treino C#.AssemblyInfo.cs
+E:\Projects\Treino C#\obj\Debug\net10.0\Treino C#.csproj.CoreCompileInputs.cache
+E:\Projects\Treino C#\obj\Debug\net10.0\Treino C#.dll
+E:\Projects\Treino C#\obj\Debug\net10.0\refint\Treino C#.dll
+E:\Projects\Treino C#\obj\Debug\net10.0\Treino C#.pdb
+E:\Projects\Treino C#\obj\Debug\net10.0\Treino C#.genruntimeconfig.cache
+E:\Projects\Treino C#\obj\Debug\net10.0\ref\Treino C#.dll
